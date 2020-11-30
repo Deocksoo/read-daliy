@@ -2,5 +2,5 @@
 매일 무언가를 조금씩 읽고 기록하는 저장소
 
 ### 독서는 마음의 양식 - 박상문 작사 작곡 장예림 노래
-https://www.youtube.com/watch?v=4g8ATQ29ko8
+https://www.youtube.com/watch?v=4g8ATQ29ko8  
 해당 영상을 보고 무척 큰 인사이트를 얻게 되어 매일 책읽기에 도전하게 되었습니다.
