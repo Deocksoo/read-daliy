@@ -6,3 +6,4 @@
 [TypeScript Tutorial 14] (https://www.youtube.com/watch?v=EpOPR03z4Vw&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=14)  
 [TypeScript Tutorial 15] (https://www.youtube.com/watch?v=VbW6vWTaHOY&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=15)  
 - 인터페이스. 구조를 강제
+[TypeScript Tutorial 16] (https://www.youtube.com/watch?v=XPGFqx8Vg-Y&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=16)
